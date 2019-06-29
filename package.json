@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/RafaelGSS/rabbitmq-workflow-example#readme",
   "dependencies": {
-    "amqplib": "^0.5.3"
+    "amqplib": "^0.5.3",
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
