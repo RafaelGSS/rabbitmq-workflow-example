@@ -19,7 +19,7 @@
   "homepage": "https://github.com/RafaelGSS/rabbitmq-workflow-example#readme",
   "dependencies": {
     "amqplib": "^0.5.3",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
